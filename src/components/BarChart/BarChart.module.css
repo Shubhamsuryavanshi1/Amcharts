@@ -1,0 +1,18 @@
+.mainDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100vw;
+}
+
+.filter{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 20px;
+    /* width: 80vw; */
+    margin-top: 10px;
+}
+.dropdown{
+    width:15vw;
+    text-align: left;
+}
